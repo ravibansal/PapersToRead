@@ -1,3 +1,4 @@
+ICML'19 presentations (https://www.facebook.com/icml.imls/videos/895968107420746/?t=4127)
 Noah Smith's journey on Contextual Word Representations: A Contextual Introduction (https://arxiv.org/pdf/1902.06006.pdf)
 Towards Machines that learn and think like people: (https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A9535B1D745A0377E16C590E14B94993/S0140525X16001837a.pdf/building_machines_that_learn_and_think_like_people.pdf)
 https://arxiv.org/pdf/1706.08186.pdf
